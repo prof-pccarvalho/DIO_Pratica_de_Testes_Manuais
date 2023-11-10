@@ -18,12 +18,14 @@ A apresentação completa utilizada neste módulo está disponível [AQUI](https
 Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
 
 <p align="left">
-    Nesse repositório contém os arquivos do desafio prático Dia a Dia de um QA do <b>Bootcamp GFT Quality Assurance Para Mulheres da DIO </b>, solicitado pela Instrutora: <b>Carolina Santana Louzada</b>.</p>
+    Nesse repositório contém os arquivos do desafio prático Dia a Dia de um QA do <b>Bootcamp WEX - Desenvolvimento .NET e QA da DIO </b>, solicitado pela Instrutora: <b>Carolina Santana Louzada</b>.</p>
 
 Os documentos gerados no processo de estudo: 
-  - Plano de trabalho e fluxo de trabalho</a>
+  - Fluxo de trabalho de Desnvolvimento e de BUG</a>
   - Mind-map das user story </a>
-  - User Story e Casos de Testes-step by step e BDD</a>
+  - User Story </a>
+  - Layout das Telas do Sistema Analisado </a>
+  - Casos de Testes-step by step e BDD </a>
   - Script BDD - Gherkin</a>
   
 <b> ⭐️ Sistema analisado:</b>
